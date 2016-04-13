@@ -16,6 +16,7 @@ public class Square
     {
         if (player != null)
         {
+            if((player.getName().equals("White"))||(player.getName().equals("Black")))
             return true;
         }
         return false;
