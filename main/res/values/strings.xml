@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tiktaktoe</string>
+    <string name="WhiteTurn">White turn</string>
+    <string name="BlackTurn">Black turn</string>
+    <string name="MainMenuTitle">Main menu</string>
+</resources>
